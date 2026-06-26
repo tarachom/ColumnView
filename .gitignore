@@ -53,6 +53,8 @@ obj/
 bin/Debug/net10.0/LatoFont
 bin/Debug/net10.0/runtimes
 
+ColumnView.*
+
 #StorageAndTrade3
 StorageAndTrade4
 StorageAndTrade4.exe

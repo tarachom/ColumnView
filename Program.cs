@@ -1,4 +1,6 @@
-﻿namespace Program;
+﻿using Gtk;
+
+namespace Program;
 
 class Program
 {
