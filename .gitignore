@@ -16,6 +16,8 @@
 # Mono auto generated files
 mono_crash.*
 
+
+
 build.sh
 ConfigurationParam.xml
 ConfigurationParam_.xml
@@ -33,6 +35,8 @@ ComparisonAnalize.xml
 InformationSchema.xml
 ConfigurationParam.xml
 
+bin/Debug/net10.0
+bin/Debug/net10.0/
 bin/Debug/net10.0/cs
 bin/Debug/net10.0/de
 bin/Debug/net10.0/es
@@ -49,6 +53,7 @@ bin/Debug/net10.0/zh-Hant
 
 old
 obj/
+obj
 
 bin/Debug/net10.0/LatoFont
 bin/Debug/net10.0/runtimes
